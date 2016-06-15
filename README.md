@@ -18,7 +18,7 @@ Sous Ubuntu 14.04, il y a une erreur qui nous force à utiliser
 
 (ce qui suppose d'avoir installé `virtualenv`).
 
-Activatons notre environnement virtuel :
+Activons notre environnement virtuel :
 
     $ source ~/.virtualenv/csv-cleanup/bin/activate
 
